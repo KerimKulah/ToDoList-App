@@ -1,6 +1,6 @@
 # Simple To-Do App
 
-Bu proje, temel bir **To-Do Uygulaması**dır ve **React ve Vite Tool Kit** kullanılarak geliştirilmiştir. Uygulama, kullanıcıların görev ekleme, güncelleme ve silme işlemlerini kolayca yapabilmesini sağlar.
+Bu proje, temel bir **To-Do Uygulaması**dır ve **React, Bootstrap ve Vite Tool Kit** kullanılarak geliştirilmiştir. Uygulama, kullanıcıların görev ekleme, güncelleme ve silme işlemlerini kolayca yapabilmesini sağlar.
 
 ## Özellikler
 
